@@ -1,5 +1,4 @@
-# diploma_project
-diploma_project
+
 # Дипломный проект
 
 ## Описание
